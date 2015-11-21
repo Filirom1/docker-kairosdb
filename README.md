@@ -1,12 +1,9 @@
 docker-kairosdb
-=======
+===============
 
 ## Requirements
 
-Dockerized cassandra
-
-    docker pull poklet/cassandra
-    docker pull poklet/opscenter
+Nothing, use H2 datastore (not for production)
 
 ## Install
 
